@@ -1,15 +1,8 @@
----
-title: "Mental Health Prediction Using Machine Learning (R)"
-author: "Tzuwei Tsai, Milica Gallardo Petkovich"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 ## Introduction
 
 This is an introductory example:
 
 ```{r}
-#summary(cars)
-data(mtcars)
+summary(cars)
+#data(mtcars)
 ```
